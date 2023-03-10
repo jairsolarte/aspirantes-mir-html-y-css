@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .formulario {
     font-family: Arial, Helvetica, sans-serif;
     width: 300px;
@@ -19,7 +23,7 @@
     width: 100%;}
 
 #entrada1, #entrada2 {
-    width: 245px;
+    width: 100%;
     position: relative;
     left: 0px;}
 
@@ -41,6 +45,6 @@
     padding-right: 15px;}
 
 #boton {
-    bottom: 5px;
-    left: 180px;
-    position: relative;}
+    bottom: 20px;
+    right: 20px;
+    position: absolute;}
