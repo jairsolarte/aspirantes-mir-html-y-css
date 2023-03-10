@@ -1,0 +1,46 @@
+.formulario {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    border-radius: 20px;
+    box-shadow:4px 4px 5px 2px black;
+    box-sizing: border-box;
+    position: relative;}
+
+.texto_ppal {
+    font-size: 30px;
+    color: white;}
+
+.texto_sec {
+    font-size: 20px;
+    color: white;
+    width: 100%;}
+
+#entrada1, #entrada2 {
+    width: 245px;
+    position: relative;
+    left: 0px;}
+
+#email, #password {
+    padding: 7px;
+    width: 100%;
+    position: relative;}
+
+#genero {
+    padding: 7px;
+    width: 100%;
+    color: black;
+    position: relative;}
+
+.texto_boton {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;}
+
+#boton {
+    bottom: 5px;
+    left: 180px;
+    position: relative;}
